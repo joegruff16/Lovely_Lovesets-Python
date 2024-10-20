@@ -20,4 +20,12 @@ luxurious_lamp_price = 52.40
 sales_tax = .088
 
 # Tally customer purchse expenses
-customer_one_total = 0
+customer_one_total = luxurious_lamp_price + lovely_loveseat_price
+#Print to ocnfirm accuracy
+print(customer_one_total)
+
+# Tally customer's purchase history descriptions
+customer_one_itemization = luxurious_lamp_description + lovely_loveseat_description
+
+#Print to confirm accuracy
+print(customer_one_itemization)
