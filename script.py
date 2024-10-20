@@ -3,3 +3,12 @@ lovely_loveseat_description = "Lovely Loveseat. Tufted polyester blend on wood. 
 
 #Loveseat Price
 lovely_loveseat_price = 254.00
+
+#Inventory item of catalog with description using string
+stylish_settee_description = "Stylish Settee. Faux leather on birch. 29.50 inches high x 54.75 inches wide x 28 inches deep. Black."
+
+#Item price
+stylish_settee_price = 180.40
+
+#Lamp description with string
+luxurious_lamp_description = "Luxurious Lamp. 36 inches tall. Brown with cream shades."
