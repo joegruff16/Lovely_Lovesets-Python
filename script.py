@@ -29,3 +29,17 @@ customer_one_itemization = luxurious_lamp_description + lovely_loveseat_descript
 
 #Print to confirm accuracy
 print(customer_one_itemization)
+
+#Calculate sales tax with customer total
+customer_one_tax = customer_one_total * sales_tax
+print(customer_one_tax)
+
+#Calculate complete total with tax
+customer_one_total = customer_one_total + customer_one_tax
+print(customer_one_total)
+
+# Create a custom receipt using Print
+print("Customer One Receipt:")
+print(customer_one_itemization)
+print("Customer One's Total:")
+print(customer_one_total)
