@@ -12,3 +12,12 @@ stylish_settee_price = 180.40
 
 #Lamp description with string
 luxurious_lamp_description = "Luxurious Lamp. 36 inches tall. Brown with cream shades."
+
+# Lamp price
+luxurious_lamp_price = 52.40
+
+#Variable to store sales tax to help us calcuate the sales tax per item
+sales_tax = .088
+
+# Tally customer purchse expenses
+customer_one_total = 0
